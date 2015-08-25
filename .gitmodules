@@ -1,0 +1,3 @@
+[submodule "FuhaoPerl5Lib"]
+	path = FuhaoPerl5Lib
+	url = https://github.com/lufuhao/FuhaoPerl5Lib.git
